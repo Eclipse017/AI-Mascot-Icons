@@ -4,7 +4,13 @@
 
 **[下载 Windows 程序包](https://github.com/Eclipse017/AI-Mascot-Icons/releases/latest)** · [使用说明](docs/QUICK-START.txt) · [问题反馈](https://github.com/Eclipse017/AI-Mascot-Icons/issues)
 
-![工具界面，列表为示例快捷方式](docs/preview.png)
+## 工具介绍与使用教程
+
+点击配图可查看高清原图；下载程序请使用上方的 Windows 程序包链接。
+
+| 工具介绍 | 下载与使用教程 |
+| :---: | :---: |
+| [![AI 娘图标换装：五款角色、离线使用、自动备份与恢复](docs/images/tool-intro.png)](docs/images/tool-intro.png) | [![四步下载与使用：打开项目、下载并解压、选择角色、应用与恢复](docs/images/download-guide.png)](docs/images/download-guide.png) |
 
 ## 普通用户怎么用
 
@@ -14,6 +20,13 @@
 4. 点“应用 AI 娘图标”，确认列表。想恢复时，勾选同一项并点“恢复勾选项”。
 
 不需要登录或 API Key。程序离线工作，关闭窗口即可退出。安装脚本、自启动和常驻后台均不需要。
+
+<details>
+<summary>查看实际工具界面（列表为示例快捷方式）</summary>
+
+![工具界面，列表为示例快捷方式](docs/preview.png)
+
+</details>
 
 ## 功能与范围
 

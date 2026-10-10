@@ -14,7 +14,9 @@ Copy-Item -LiteralPath $exe -Destination "$stage\AI-Mascot-Icons.exe"
 Copy-Item -LiteralPath "$exe.config" -Destination "$stage\AI-Mascot-Icons.exe.config"
 foreach ($file in @('README.md','LICENSE','ASSETS.md','VALIDATION.md')) { Copy-Item -LiteralPath "$root\$file" -Destination "$stage\$file" }
 Copy-Item -LiteralPath "$root\docs\QUICK-START.txt" -Destination "$stage\使用说明.txt"
-Copy-Item -LiteralPath "$root\docs\preview.png" -Destination "$stage\docs\preview.png"
+foreach ($file in @('preview.png','QUICK-START.txt','XIAOHONGSHU.md','RELEASE-v1.0.0.md')) {
+    Copy-Item -LiteralPath "$root\docs\$file" -Destination "$stage\docs\$file"
+}
 $manifest = foreach ($file in Get-ChildItem -LiteralPath $stage -Recurse -File) {
     $relative = [IO.Path]::GetRelativePath($stage, $file.FullName).Replace('\','/')
     '{0}  {1}' -f (Get-FileHash -LiteralPath $file.FullName -Algorithm SHA256).Hash.ToLowerInvariant(), $relative

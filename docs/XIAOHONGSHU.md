@@ -1,3 +1,5 @@
+> 说明：以下发布文案沿用 v1.0.0 原帖语境；当前仓库与安装包已更新为 **v1.1.0**（10 位角色 / 11 款内置图标），下载包名请对应选择 `v1.1.0`。
+
 # 原帖更新文案
 
 原帖标题：我的口袋妖怪（AI宠物）。以下沿用原帖的轻松语气，突出“把你们看到的桌面图标做成了可下载工具”。这是文案交付，不会自动编辑或发布到小红书。
@@ -51,7 +53,7 @@ https://github.com/Eclipse017/AI-Mascot-Icons
 
 ## 常见评论回复
 
-- 怎么下载：打开 https://github.com/Eclipse017/AI-Mascot-Icons/releases/latest，在 Assets 里下载 AI-Mascot-Icons-v1.0.0-windows.zip，全部解压后双击 EXE。
+- 怎么下载：打开 https://github.com/Eclipse017/AI-Mascot-Icons/releases/latest，在 Assets 里下载 AI-Mascot-Icons-v1.1.0-windows.zip，全部解压后双击 EXE。
 - 苹果电脑能用吗：这一版目前支持 Windows，macOS 暂未提供。
 - 是动态桌宠吗：这次放出的是静态图标换装工具，可以做出原图那种桌面效果。
 - 会不会改应用功能：只更换你选中的快捷方式图标，保留原有启动设置，也不会启动目标 AI 应用。

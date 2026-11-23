@@ -1,7 +1,7 @@
-AI 娘图标换装 v1.0.0
+AI 娘图标换装 v1.1.0
 
 1. 请先完整解压 ZIP，再双击 AI-Mascot-Icons.exe。
-2. 勾选桌面快捷方式，点击角色卡片；或使用“匹配常见 AI”。
+2. 勾选桌面快捷方式，点击十位内置角色卡片之一（ChatGPT、Claude、Gemini、Grok、DeepSeek、ZCode、豆包【可切换经典/工作皮肤】、MiniMax、WorkBuddy、Kimi）；或使用“匹配常见 AI”。
 3. 检查各行“准备替换为”，点击“应用 AI 娘图标”。
 4. 不喜欢时勾选同一项，点击“恢复勾选项”。
 
@@ -13,5 +13,7 @@ AI 娘图标换装 v1.0.0
 不会打开 Claude 或任何其他 AI 应用，不需要登录或联网。
 程序窗口、任务栏正在运行的图标不保证一起变化。
 图标暂未刷新时，可在桌面按 F5。
+“匹配常见 AI”仅按快捷方式名称匹配，冲突或非产品组合名称（如 Gemini Notebook、glmnet、海螺 - 水泥报价、元宝 - 记账、混元 太极、红豆包食谱）会跳过。
+屏幕较矮或高 DPI 缩放下，角色区域可滚动并可通过右上角“收起角色”折叠，保持列表与底部按钮可用。
 
-请查看 README.md、ASSETS.md 和 VALIDATION.md 了解使用范围和素材说明。
+请查看 README.md、ASSETS.md、VALIDATION.md 和 docs/RELEASE-v1.1.0.md 了解版本更新与使用范围。

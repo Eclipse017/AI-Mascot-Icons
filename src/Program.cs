@@ -8,8 +8,8 @@ using System.Windows;
 [assembly: AssemblyDescription("离线更换 Windows 快捷方式图标，自动备份与恢复")]
 [assembly: AssemblyCompany("Eclipse017")]
 [assembly: AssemblyProduct("AI-Mascot-Icons")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
 
 namespace MascotIcons
 {
